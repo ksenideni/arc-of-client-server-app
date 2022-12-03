@@ -2,7 +2,6 @@ package client;
 
 import server.Quadratic;
 import server.Server;
-import server.dto.Response;
 
 import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
